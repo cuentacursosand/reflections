@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	forks - para clonar solo en github y no en local
 	clone - para descargar y copiar versiones de github a local
 	branch - para hacer diferentes versiones de un git
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Para saber si se ha cambiado el remote branch
