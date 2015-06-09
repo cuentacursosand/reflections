@@ -14,3 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Seria usar los metodos tradicionales para trabajar en equipo
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Cuando se planean hacer cambios al branch master pero aun no se han aprobado, si bien es un poco mas tardado que hacer los cambios en el branch master directamente, se tiene un mejor control y seguimiento de los cambios que se hacer, y mas si se esta colaborando con otras personas
